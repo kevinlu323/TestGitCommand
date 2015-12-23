@@ -2,3 +2,4 @@ testfile1
 ready to merge to master
 This is a modification on develop branch
 Done with fix issue #1 test
+Add something from Mac
