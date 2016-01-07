@@ -4,3 +4,4 @@ This is a modification on develop branch
 Done with fix issue #1 test
 Add something from Mac
 Add again
+A test for rebase, this is master branch
